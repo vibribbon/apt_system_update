@@ -1,5 +1,5 @@
 # apt_system_update
-Small script to run system updates and clean up
+Small terminal script to run system updates and clean up
 
 All scripts are without any kind of warranty, use entirely at your own risk!
 
@@ -10,6 +10,6 @@ sudo mv /user/local/bin/apt_system_update.sh /user/local/bin/apt_system_update
 
 Dependancies: none
 
-This script applies an apt-get update & upgrade & autoclean & autoremove sequentially and without confirmation.
+This terminal script applies an apt-get update & upgrade & autoclean & autoremove sequentially and without confirmation.
 
 END
